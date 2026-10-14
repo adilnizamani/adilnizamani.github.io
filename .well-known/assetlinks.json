@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.adilnizamani.twa",
+        "package_name": "io.github.adilnizamani.dedar",
         "sha256_cert_fingerprints": ["FE:74:52:C6:76:7A:78:66:6E:D6:D9:EF:B9:D6:A2:3F:09:75:32:8A:5B:C6:09:70:B0:02:A9:6C:A0:A1:E9:6E"]
       }
     }]
